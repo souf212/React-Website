@@ -1,4 +1,4 @@
-function Food(){
+function Header(){
 return(
     <header>
         <h1>
@@ -12,3 +12,4 @@ return(
 )
 
 }
+export default Header
